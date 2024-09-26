@@ -105,8 +105,10 @@ body {
 .project-card:hover {
     transform: translateY(-5px);
 }
-
-/* Skills Section */
+.project-card.img{
+    width:100%;
+}
+/* Skills section */
 .skills-section {
     padding: 100px 20px;
 }
